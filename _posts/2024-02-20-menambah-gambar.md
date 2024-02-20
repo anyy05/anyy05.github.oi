@@ -5,4 +5,4 @@
 4. lalu akan muncul gambar seperti berikut.
 5. contoh:
 
-   ![assets]
+   ![assets](/assets/maridbb1.png)
